@@ -2,8 +2,8 @@
 
 Developed a predictive model to forecast hourly building energy usage based on historical weather patterns and building characteristics. This project serves as an end-to-end demonstration of a typical time-series forecasting problem in data science.
 
-![Project Visualization](https://i.imgur.com/gKzT4oV.png) 
-*An example visualization comparing the model's predictions (red) against actual energy usage (blue).*
+
+
 
 ---
 
